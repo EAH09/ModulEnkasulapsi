@@ -33,7 +33,7 @@ public class Bus3 {
     
     public void getpenumpang(int password){
             
-            if(password == 123){
+            if(password == 24){
                 System.out.println("Password Benar");
                         
             }else{
