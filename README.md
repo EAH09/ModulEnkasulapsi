@@ -14,7 +14,7 @@ Disini terdapat 2 atribut yaitu jumlah penumpang dan maxpenumpang. Penumpang sel
 # Latihan 2
 ![latihan 2](https://github.com/EAH09/ModulEnkasulapsi/blob/4620010d9c87ed1a13f3ef54bc3f581a30358585/Latihan%202.png)
 
-Terdapat atribut penumpang dan maxpenumpang. Latihan 2 ini merupakan pengembangan dari latihan 1. Perbedaannya disini terdapat pemberitahuan jika melebihi max penumpang, namun hasilnya tetap dijalankan. 
+Terdapat atribut penumpang dan maxpenumpang. Latihan 2 ini merupakan pengembangan dari latihan 1. Perbedaannya disini terdapat pemberitahuan jika melebihi max penumpang.  Saat data melebihi maxpenumpang maka tidak ditambahkan datanya namun mengeluarkan data terakhir yang tidak melebihi kuota. 
 
 # Latihan 3
 ![Latihan 3](https://github.com/EAH09/ModulEnkasulapsi/blob/4620010d9c87ed1a13f3ef54bc3f581a30358585/Latihan%203.png)
