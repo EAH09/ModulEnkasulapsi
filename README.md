@@ -37,7 +37,7 @@ Terdapat 4 atribut yaitu jumlah penumpang, maxpenumpang, counter(berat) dan getP
 Terdapat 4 atribut yaitu jarijari, diameter, luaspermukaan dan volume. Di setiap method dituliskan penjelasan diketahui atau rumusnya. Nanti, tinggal menuliskan di class UjiBola untuk melihat hasilnya. 
 
 # Kesimpulan
-Enkasulapsi adalah suatu cara untuk menyembunyikan sebuah informasi dari suatu class. Dalam konsep ini yang pertama harus terdapat atribut atribut lalu beberapa method dan yang terakhir membuat objek dan dideklarasikan.
+Enkasulapsi adalah suatu cara untuk menyembunyikan sebuah informasi dari suatu class. Dalam konsep ini yang pertama harus terdapat atribut atribut, konstruktor lalu beberapa method dan yang terakhir membuat objek dan dideklarasikan.
 
 # Terimakasih
 Mohon maaf apabila terdapat kesalahan. Silahkan beri kritik atau saran untuk memperbaiki serta menambah pemahaman dalam materi ini. Terimakasih
